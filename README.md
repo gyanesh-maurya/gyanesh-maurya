@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C74FF&width=435&lines=I'm+Gyanesh+Maurya)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C74FF&width=435&lines=I'm+Gyanesh+Maurya) <br/>
 <An amateur Dev & Cybersec enthusiast./>
 
 ## 🌐 Socials:
