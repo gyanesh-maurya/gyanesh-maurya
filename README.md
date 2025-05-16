@@ -2,6 +2,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C74FF&width=435&lines=I'm+Gyanesh+Maurya) <br/>
 <An amateur Dev & Cybersec enthusiast./>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanesh-maurya&label=Profile%20views&color=0e75b6&style=flat" alt="gyanesh-maurya" /> </p>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gyanesh_maurya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gyanesh-maurya) 
 
