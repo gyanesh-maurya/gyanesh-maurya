@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Grey+Qo&size=50&pause=1000&width=435&color=EBA60E&center=true&vCenter=true&height=70&lines=Hii+There%2C+I%27m+Gyanesh+%F0%9F%98%8A) <br/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Grey+Qo&size=50&pause=1000&width=435&color=7C74FF&center=true&vCenter=true&height=70&lines=Hii+There%2C+I%27m+Gyanesh+%F0%9F%98%8A) <br/>
 <An amateur Dev & Cybersec enthusiast./>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanesh-maurya&label=Profile%20views&color=0e75b6&style=flat" alt="gyanesh-maurya" /> </p>
